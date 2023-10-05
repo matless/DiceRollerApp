@@ -60,32 +60,32 @@ namespace DiceRollerApp
             {
                 case 1:
                     pictureBox2.ImageLocation = @"C:\Users\mateu\Desktop\diceRoller\Dice1.png";
-                    //pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
+                    pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
                     pictureBox2.BackColor = Color.Transparent;
                     break;
                 case 2:
                     pictureBox2.ImageLocation = @"C:\Users\mateu\Desktop\diceRoller\Dice2.png";
-                    //pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
+                    pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
                 case 3:
                     pictureBox2.ImageLocation = @"C:\Users\mateu\Desktop\diceRoller\Dice3.png";
-                   // pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
+                    pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
                 case 4:
                     pictureBox2.ImageLocation = @"C:\Users\mateu\Desktop\diceRoller\Dice4.png";
-                    //pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
+                    pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
                 case 5:
                     pictureBox2.ImageLocation = @"C:\Users\mateu\Desktop\diceRoller\Dice5.png";
-                    //pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
+                    pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
                 case 6:
                     pictureBox2.ImageLocation = @"C:\Users\mateu\Desktop\diceRoller\Dice6.png";
-                   // pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
+                    pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
                 default:
                     pictureBox2.ImageLocation = @"C:\Users\mateu\Desktop\diceRoller\Dice1.png";
-                   // pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
+                    pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
                     break;
             }
         }
